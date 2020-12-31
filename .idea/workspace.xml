@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0285cb4a-ec25-4dc0-94f5-7d5e38413894" name="Default Changelist" comment="add login Component">
+    <list default="true" id="0285cb4a-ec25-4dc0-94f5-7d5e38413894" name="Default Changelist" comment="add login and logout functionality">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/login/login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/login/login.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/service/auth_service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/auth_service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/maker/maker.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/maker/maker.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/maker/maker.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/maker/maker.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +53,8 @@
       <workItem from="1609117566981" duration="599000" />
       <workItem from="1609253870080" duration="97000" />
       <workItem from="1609254028847" duration="1717000" />
-      <workItem from="1609311646399" duration="5923000" />
+      <workItem from="1609311646399" duration="7043000" />
+      <workItem from="1609386055940" duration="1963000" />
     </task>
     <task id="LOCAL-00001" summary="add login Component">
       <created>1609314861203</created>
@@ -65,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609314861203</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add login and logout functionality">
+      <created>1609319727231</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609319727231</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,9 +86,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add login Component" />
-    <option name="LAST_COMMIT_MESSAGE" value="add login Component" />
+    <MESSAGE value="add login and logout functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="add login and logout functionality" />
   </component>
 </project>
