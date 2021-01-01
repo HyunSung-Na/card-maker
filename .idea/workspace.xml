@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0285cb4a-ec25-4dc0-94f5-7d5e38413894" name="Default Changelist" comment="add login and logout functionality">
+    <list default="true" id="0285cb4a-ec25-4dc0-94f5-7d5e38413894" name="Default Changelist" comment="add editor and preview layout">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/colors.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/colors.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/editor/editor.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/editor/editor.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/maker/maker.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/maker/maker.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/maker/maker.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/maker/maker.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/preview/preview.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/preview/preview.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/preview/preview.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/preview/preview.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +57,8 @@
       <workItem from="1609253870080" duration="97000" />
       <workItem from="1609254028847" duration="1717000" />
       <workItem from="1609311646399" duration="7043000" />
-      <workItem from="1609386055940" duration="1963000" />
+      <workItem from="1609386055940" duration="4284000" />
+      <workItem from="1609494861590" duration="6777000" />
     </task>
     <task id="LOCAL-00001" summary="add login Component">
       <created>1609314861203</created>
@@ -70,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609319727231</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add editor and preview layout">
+      <created>1609388141679</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609388141679</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add login Component" />
     <MESSAGE value="add login and logout functionality" />
-    <option name="LAST_COMMIT_MESSAGE" value="add login and logout functionality" />
+    <MESSAGE value="add editor and preview layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="add editor and preview layout" />
   </component>
 </project>
