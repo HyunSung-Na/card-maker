@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0285cb4a-ec25-4dc0-94f5-7d5e38413894" name="Default Changelist" comment="add editor and preview layout">
+    <list default="true" id="0285cb4a-ec25-4dc0-94f5-7d5e38413894" name="Default Changelist" comment="add cardComponent and cardEditForm">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/colors.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/colors.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/editor/editor.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/editor/editor.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/maker/maker.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/maker/maker.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/preview/preview.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/preview/preview.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/card_edit_form/card_edit_form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card_edit_form/card_edit_form.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/card_edit_form/card_edit_form.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card_edit_form/card_edit_form.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/editor/editor.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/editor/editor.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/maker/maker.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/maker/maker.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/preview/preview.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/preview/preview.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,8 @@
       <workItem from="1609254028847" duration="1717000" />
       <workItem from="1609311646399" duration="7043000" />
       <workItem from="1609386055940" duration="4284000" />
-      <workItem from="1609494861590" duration="6777000" />
+      <workItem from="1609494861590" duration="7910000" />
+      <workItem from="1609582117604" duration="2521000" />
     </task>
     <task id="LOCAL-00001" summary="add login Component">
       <created>1609314861203</created>
@@ -81,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609388141679</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add cardComponent and cardEditForm">
+      <created>1609507339875</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609507339875</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +111,7 @@
     <MESSAGE value="add login Component" />
     <MESSAGE value="add login and logout functionality" />
     <MESSAGE value="add editor and preview layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="add editor and preview layout" />
+    <MESSAGE value="add cardComponent and cardEditForm" />
+    <option name="LAST_COMMIT_MESSAGE" value="add cardComponent and cardEditForm" />
   </component>
 </project>
