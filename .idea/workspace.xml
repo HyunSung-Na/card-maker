@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0285cb4a-ec25-4dc0-94f5-7d5e38413894" name="Default Changelist" comment="add cardComponent and cardEditForm">
+    <list default="true" id="0285cb4a-ec25-4dc0-94f5-7d5e38413894" name="Default Changelist" comment="add card_edit_form">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/card_edit_form/card_edit_form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card_edit_form/card_edit_form.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/card_edit_form/card_edit_form.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card_edit_form/card_edit_form.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/editor/editor.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/editor/editor.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/maker/maker.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/maker/maker.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/preview/preview.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/preview/preview.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/editor/editor.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/editor/editor.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/maker/maker.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/maker/maker.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,13 +33,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/꽁냥트립/front-end-master/front-end-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
     <property name="list.type.of.created.stylesheet" value="PostCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ocean\card-maker\src\components" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -59,7 +62,8 @@
       <workItem from="1609311646399" duration="7043000" />
       <workItem from="1609386055940" duration="4284000" />
       <workItem from="1609494861590" duration="7910000" />
-      <workItem from="1609582117604" duration="2521000" />
+      <workItem from="1609582117604" duration="5560000" />
+      <workItem from="1609642625796" duration="5055000" />
     </task>
     <task id="LOCAL-00001" summary="add login Component">
       <created>1609314861203</created>
@@ -89,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609507339875</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add card_edit_form">
+      <created>1609584699204</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609584699204</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +123,7 @@
     <MESSAGE value="add login and logout functionality" />
     <MESSAGE value="add editor and preview layout" />
     <MESSAGE value="add cardComponent and cardEditForm" />
-    <option name="LAST_COMMIT_MESSAGE" value="add cardComponent and cardEditForm" />
+    <MESSAGE value="add card_edit_form" />
+    <option name="LAST_COMMIT_MESSAGE" value="add card_edit_form" />
   </component>
 </project>
