@@ -12,7 +12,7 @@
     margin-bottom: 0.5em;
     border-radius: 1em;
     padding: 0.2em;
-    box-shadow: 6px 6px 8px 0px makerShadow;
+    box-shadow: 6px 6px 8px 0 makerShadow;
     max-width: 30rem;
 }
 
