@@ -1,4 +1,4 @@
-import {React, useEffect, useState} from 'react';
+import {useEffect, useState} from 'react';
 import styles from './maker.module.css';
 import Header from "../header/header";
 import Footer from "../footer/footer";
@@ -34,7 +34,7 @@ const Maker = ({FileInput, authService, cardRepository}) => {
                 history.push('/');
             }
         });
-    });
+    }, [authService, userId, history]);
 
     const createOrUpdateCard = card => {
         setCards(cards => {
