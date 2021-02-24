@@ -28,26 +28,26 @@ React Hook, Firebase , MVC Pattern, Cloudinary (image upload), dependency inject
 5. firebase -> authentication -> google이랑 github 사용설정 해주기
 6. github는 settings -> developer settings에서 client 설정
 
-## 3. 로그인 화면 구현
+### 3. 로그인 화면 구현
 
 1. footer, header, login components 만들고 각각 jsx파일 생성
 2. login 에서 로그인 화면 구성 (import header, footer)
 3. index.js에서 import authService & app 에서 authService 실행 => app.jsx에 props로 authService 전달 => login.jsx에가서 props에 authService 전달
 4. Login component 안에 Login할 수 있는 함수 생성 = onLogin => authservice.login 실행
 
-## 4. header, footer, login
+### 4. header, footer, login
 
 1. login에 Logout 구성, img 삽입,
 2. css 작성
 
-## 5. 로그인-홈 화면 연결 => Router
+### 5. 로그인-홈 화면 연결 => Router
 
 1. yarn add react-router-dom
 2. App.js에서 BrowserRouter, Switch, Route 추가
 3. <Route (exact) path="?"> 로 어떤 path에서 어떤 page가 뜨게 할 것인지 결정. Ex. /users 와 /users/abc 같은 비슷한 url을 구분할 때는 exact path 를 써준다
 4. components에 maker 생성하고 app.jsx -> Switch 하나에 할당
 
-## 5. 로그인하면 maker 화면으로 넘어가기
+### 5. 로그인하면 maker 화면으로 넘어가기
 
 1. 화면에서 다른 화면으로 넘어갈 때 : const history = useHistory()
 2. goToMaker 함수 만들기
